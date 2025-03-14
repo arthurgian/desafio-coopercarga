@@ -1,0 +1,64 @@
+{
+  "filter": {
+    "title": "Filters",
+    "remove_all": "Remove all",
+    "price": "Price",
+    "type": "Type",
+    "size": "Size",
+    "no_products_found": "No products found!",
+    "price_range": {
+      "50_200": "R$50.00 - R$200.00",
+      "200_500": "R$200.00 - R$500.00",
+      "500_700": "R$500.00 - R$700.00",
+      "700_1000": "R$700.00 - R$1,000.00"
+    },
+    "types": {
+      "camiseta": "T-shirt",
+      "regata": "Tank top",
+      "calção": "Shorts",
+      "acessório": "Accessory"
+    },
+    "sizes": {
+      "xpp": "XXS",
+      "pp": "XS",
+      "p": "S",
+      "m": "M",
+      "g": "L",
+      "gg": "XL",
+      "xgg": "XXL",
+      "number": "No."
+    }
+  },
+
+  "hot_product_card": {
+    "image_alt": "Featured product"
+  },
+
+  "modal": {
+    "available_sizes": "Available sizes",
+    "unavailable": "Unavailable"
+  },
+
+  "navbar": {
+    "logo_title": "Marketplace",
+    "home": "Home",
+    "hot": "Featured",
+    "male": "Male",
+    "female": "Female",
+    "kids": "Kids",
+    "settings": "Settings",
+    "all": "All"
+  },
+
+  "search_input": {
+    "placeholder": "Search products..."
+  },
+
+  "theme_toggle": {
+    "dark_mode": "Dark mode"
+  },
+
+  "language_switcher": {
+    "language": "Language"
+  }
+}

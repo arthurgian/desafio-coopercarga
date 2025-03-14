@@ -1,0 +1,64 @@
+{
+  "filter": {
+    "title": "Filtros",
+    "remove_all": "Eliminar todo",
+    "price": "Precio",
+    "type": "Tipo",
+    "size": "Tamaño",
+    "no_products_found": "¡No se encontraron productos!",
+    "price_range": {
+      "50_200": "R$50.00 - R$200.00",
+      "200_500": "R$200.00 - R$500.00",
+      "500_700": "R$500.00 - R$700.00",
+      "700_1000": "R$700.00 - R$1,000.00"
+    },
+    "types": {
+      "camiseta": "Camiseta",
+      "regata": "Camiseta sin mangas",
+      "calção": "Pantalones cortos",
+      "acessório": "Accesorio"
+    },
+    "sizes": {
+      "xpp": "XXS",
+      "pp": "XS",
+      "p": "S",
+      "m": "M",
+      "g": "L",
+      "gg": "XL",
+      "xgg": "XXL",
+      "number": "Núm."
+    }
+  },
+
+  "hot_product_card": {
+    "image_alt": "Producto destacado"
+  },
+
+  "modal": {
+    "available_sizes": "Tamaños disponibles",
+    "unavailable": "No disponible"
+  },
+
+  "navbar": {
+    "logo_title": "Marketplace",
+    "home": "Inicio",
+    "hot": "Destacado",
+    "male": "Hombre",
+    "female": "Mujer",
+    "kids": "Niños",
+    "settings": "Configuraciones",
+    "all": "Todos"
+  },
+
+  "search_input": {
+    "placeholder": "Buscar productos..."
+  },
+
+  "theme_toggle": {
+    "dark_mode": "Modo oscuro"
+  },
+
+  "language_switcher": {
+    "language": "Idioma"
+  }
+}

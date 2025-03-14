@@ -1,0 +1,64 @@
+{
+  "filter": {
+    "title": "Filtros",
+    "remove_all": "Remover todos",
+    "price": "Preço",
+    "type": "Tipo",
+    "size": "Tamanho",
+    "no_products_found": "Nenhum produto encontrado!",
+    "price_range": {
+      "50_200": "R$ 50,00 - R$ 200,00",
+      "200_500": "R$ 200,00 - R$ 500,00",
+      "500_700": "R$ 500,00 - R$ 700,00",
+      "700_1000": "R$ 700,00 - R$ 1.000,00"
+    },
+    "types": {
+      "camiseta": "Camiseta",
+      "regata": "Regata",
+      "calção": "Calção",
+      "acessório": "Acessório"
+    },
+    "sizes": {
+      "xpp": "XPP",
+      "pp": "PP",
+      "p": "P",
+      "m": "M",
+      "g": "G",
+      "gg": "GG",
+      "xgg": "XGG",
+      "number": "N°"
+    }
+  },
+
+  "hot_product_card": {
+    "image_alt": "Produto em destaque"
+  },
+
+  "modal": {
+    "available_sizes": "Tamanhos disponíveis",
+    "unavailable": "Indisponível"
+  },
+
+  "navbar": {
+    "logo_title": "Marketplace",
+    "home": "Home",
+    "hot": "Destaques",
+    "male": "Masculino",
+    "female": "Feminino",
+    "kids": "Infantil",
+    "settings": "Configurações",
+    "all": "Todos"
+  },
+
+  "search_input": {
+    "placeholder": "Buscar produtos..."
+  },
+
+  "theme_toggle": {
+    "dark_mode": "Modo escuro"
+  },
+
+  "language_switcher": {
+    "language": "Idioma"
+  }
+}

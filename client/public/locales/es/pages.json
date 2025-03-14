@@ -1,0 +1,22 @@
+{
+  "home": {
+    "collection": "Colección",
+    "female": "Femenino",
+    "summer_autumn": "Verano | Otoño",
+    "view_catalog": "Ver catálogo",
+    "hot_products": "Productos",
+    "highlight": "Destacados",
+    "summer_collection": "Colección de Verano 2025"
+  },
+  "marketplace": {
+    "search_results": "Resultados de búsqueda ({{count}})",
+    "all_products": "Todos los productos",
+    "no_products_found": "¡No se encontraron productos!"
+  },
+
+  "error_page": {
+    "title": "Error {{statusCode}}",
+    "message": "Lo siento, no hay nada por aquí.",
+    "back_home": "Volver a la página principal"
+  }
+}

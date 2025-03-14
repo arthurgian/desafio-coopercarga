@@ -1,0 +1,22 @@
+{
+  "home": {
+    "collection": "Collection",
+    "female": "Female",
+    "summer_autumn": "Summer | Autumn",
+    "view_catalog": "View catalog",
+    "hot_products": "Hot products",
+    "highlight": "Highlight",
+    "summer_collection": "Summer Collection 2025"
+  },
+  "marketplace": {
+    "search_results": "Search results ({{count}})",
+    "all_products": "All products",
+    "no_products_found": "No products found!"
+  },
+
+  "error_page": {
+    "title": "Error {{statusCode}}",
+    "message": "Sorry, there's nothing here.",
+    "back_home": "Back to the main page"
+  }
+}
