@@ -1,4 +1,4 @@
-# 🚀 Desafio Técnico Fullstack - Coopercarga
+# Desafio Técnico Fullstack - Coopercarga
 
 [![React](https://img.shields.io/badge/React-18.2-blue?logo=react)](https://react.dev/)
 [![AdonisJS](https://img.shields.io/badge/AdonisJS-5.9-green?logo=adonisjs)](https://adonisjs.com/)
@@ -6,7 +6,7 @@
 
 Repositório contendo a solução completa para o desafio técnico composto por 2 partes principais:
 
-## 📚 Parte 1: Questões Teóricas (6 Questões)
+## Parte 1: Questões Teóricas (6 Questões)
 
 **Localização:** [`/questoes-teoricas`](./questoes-teoricas)  
 **Formato:** Documentos Markdown individuais com explicações detalhadas
@@ -31,7 +31,7 @@ Comparação técnica e escolha de abordagem
 **[Q6 - Consulta SQL](./questoes-teoricas/questao-6.md)**
 Joins e Agregação
 
-## 🛍️ Parte 2: Marketplace Fullstack
+## Parte 2: Marketplace Fullstack
 
 **Aplicação completa para e-commerce de roupas e acessórios com:**
 
@@ -50,14 +50,14 @@ Joins e Agregação
 
 **Features Principais:**
 
-✅ Sistema de filtros dinâmicos (preço, tamanho, categoria)  
-✅ Modal de detalhes de produtos com zoom  
-✅ Troca de temas (light/dark) persistente no localStorage  
-✅ Internacionalização com i18n (Português, Inglês e Espanhol)  
-✅ Preloader para carregamento de dados  
-✅ Carregamento de dados assíncronos  
-✅ Paginação otimizada  
-✅ Sistema de busca com sugestão de dados
+- Sistema de filtros dinâmicos (preço, tamanho, categoria)  
+- Modal de detalhes de produtos com zoom  
+- Troca de temas (light/dark) persistente no localStorage  
+- Internacionalização com i18n (Português, Inglês e Espanhol)  
+- Preloader para carregamento de dados  
+- Carregamento de dados assíncronos  
+- Paginação otimizada  
+- Sistema de busca com sugestão de dados
 
 ### Backend
 
@@ -70,7 +70,7 @@ GET    /api/products       Listagem com filtros
 GET    /api/products/:id   Detalhes do produto
 ```
 
-## ⚡ Instalação Rápida
+## Instalação Rápida
 
 ### Pré-requisitos
 
