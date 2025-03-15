@@ -75,9 +75,7 @@ GET    /api/products/:id   Detalhes do produto
 ### Pré-requisitos
 
     Node.js 18.x
-
-    PostgreSQL 14+
-
+    
     Yarn 1.22+
 
 ### Instalação
