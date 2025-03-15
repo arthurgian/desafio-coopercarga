@@ -39,6 +39,8 @@ Joins e Agregação
 
 ![React][React.js] + ![TypeScript][TypeScript] + ![Vite][Vite]
 
+**Link para protótipo criado**: [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/MZobEJ4ZfeeYRBaXifs5wv/Coopercarga---Prot%C3%B3tipo-do-Sistema-Desafio?node-id=0-1&t=sdunIm2oCu6ZgHrN-1)
+
 **Stack:**
 
 - React 18 + Vite
