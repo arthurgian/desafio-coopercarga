@@ -76,7 +76,7 @@ GET    /api/products/:id   Detalhes do produto
 
     Node.js 18.x
     
-    Yarn 1.22+
+    Yarn 1.22+ / NPM 10 +
 
 ### Instalação
 
