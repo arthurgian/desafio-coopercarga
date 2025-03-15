@@ -66,7 +66,7 @@ Joins e Agregação
 **Endpoints Principais:**
 
 ```http
-GET    /api/products       Listagem com filtros
+GET    /api/products       Listagem dos produtos
 GET    /api/products/:id   Detalhes do produto
 ```
 
