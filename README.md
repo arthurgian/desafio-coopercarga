@@ -78,6 +78,8 @@ GET    /api/products/:id   Detalhes do produto
     
     Yarn 1.22+ / NPM 10 +
 
+    Adonis 5.x
+
 ### Instalação
 
 ```bash
